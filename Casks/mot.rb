@@ -1,6 +1,6 @@
 cask "mot" do
-  version "1.0.38"
-  sha256 "98ac7391183cfc870a30087d7d96d4d3f9f06bf3b151dfc0ef99fadf4779ebc8"
+  version "1.0.39"
+  sha256 "1b78f504af1246396a04c9dc9a119b1c1aedf5707b3249250816c983722396cb"
 
   url "https://getmot.app/mot-#{version}.dmg"
   name "mOT"
